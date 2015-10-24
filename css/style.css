@@ -1,0 +1,17 @@
+.select-mod {
+  height: 34px;
+  width: 240px;
+  overflow: hidden;
+  border-radius: 5px;
+  border: 3px solid #A6D470;
+  background: url('../img/back_arrow.png') no-repeat right #A6D437;
+}
+
+.select-mod select {
+  background: transparent;
+  height: 34px;
+  width: 268px;
+  font-size: 16px;
+  padding: 5px;
+  outline: none;
+}
